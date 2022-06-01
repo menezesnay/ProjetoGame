@@ -45,6 +45,27 @@ main {
   backdrop-filter: blur(2rem);
   display: flex;
 }
+
+.botaoJogoUm {
+  border: none;
+  color: rgb(67, 231, 243);
+  font-size: 1.5em;
+  background: none;
+  border-radius: 8px 40px;
+  flex-direction: row;
+  justify-content: center;
+  }
+
+.botaoJogoUm:hover {
+transform: scale(1.1);
+transition: all 0.5s;
+cursor: pointer;
+}
+
+.botaoJogoDois {
+
+}
+
 .circle1,
 .circle2 {
   background: white;
