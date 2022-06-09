@@ -61,7 +61,7 @@ main.cards section.card span {
     margin-bottom: 16px;
 }
 
-main.cards section.card button {
+main.cards section.card .button {
     padding: 0.5rem 1rem;
     text-transform: uppercase;
     border-radius: 32px;
@@ -69,11 +69,11 @@ main.cards section.card button {
     cursor: pointer;
     font-size: 80%;
     font-weight: 500;
-    color: #f1e9e9;
+    background: linear-gradient(to right, #3E8AFF, #DFCBFF);
     margin-bottom: 16px 0;
 }
 
-main.cards section.card.joe button {
+main.cards section.card.joe .button {
     background: linear-gradient(to right, #3E8AFF, #DFCBFF);
 }
 
