@@ -9,9 +9,9 @@ function validacaoDeDados(){
         } 
     } function proximaFase(){
         if(escolhaUmaOpcao == '1'){
-            window.location.href = 'srbigodesgameover.html';
+            window.location.href = 'lossrbigodes.html';
         } else{
-            window.location.href= 'srbigodeswin3.html';
+            window.location.href= 'winsrbigodes.html';
         }
     }   proximaFase();
 }

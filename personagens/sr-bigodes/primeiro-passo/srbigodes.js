@@ -9,9 +9,9 @@ function validacaoDeDados(){
         } 
     } function proximaFase(){
         if(escolhaUmaOpcao == '1'){
-            window.location.href = 'primeiropassogato.html';
+            window.location.href = 'primeiropassosrbigodes.html';
         } else{
-            window.location.href= 'segundopassogato.html';
+            window.location.href= 'segundopassosrbigodes.html';
         }
     }   proximaFase();
 }
