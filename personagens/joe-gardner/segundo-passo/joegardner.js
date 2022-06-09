@@ -9,7 +9,7 @@ function validacaoDeDados(){
         } 
     } function proximaFase(){
         if(escolhaUmaOpcao == '1'){
-            window.location.href = 'gameoverjoegardner.html';
+            window.location.href = 'lossjoe.html';
         } else{
             window.location.href= 'terceiropassojoe.html';
         }
