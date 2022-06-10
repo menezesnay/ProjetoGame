@@ -54,13 +54,12 @@ main {
   cursor: pointer;
   font-size: 80%;
   font-weight: 500;
-  background: linear-gradient(to right, #3E8AFF, #DFCBFF);
+  background: linear-gradient(to right, #3ee8ff, #DFCBFF);
   margin-bottom: 16px 0;
   display: flex;
   flex-direction: row;
   justify-content: center;
   font-weight: 500;
-  background: linear-gradient(to right, #3E8AFF, #DFCBFF);
   margin-bottom: 16px 0;
   }
 
@@ -121,7 +120,7 @@ cursor: pointer;
 }
 
 .pro {
-  background: linear-gradient(to right top, #65dfc9, #6cdbeb);
+  background: linear-gradient(to right top, #65dfc910, #6cdaeb0a);
   border-radius: 2rem;
   color: white;
   padding: 1rem;
